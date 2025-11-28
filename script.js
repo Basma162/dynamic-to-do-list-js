@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function() {
             return;
         }
 
-        // Create a new list item (li) element
+        // Create a new li element
         const li = document.createElement('li');
         li.textContent = taskText;
 
